@@ -5,4 +5,6 @@ I do not know how to store it in another way,
 so I choose to use another repository for it.
 
 ---
-+ [hosts file][https://raw.githubusercontent.com/DarwinSenior/FilesForBlog/master/files/hosts]
++ [hosts file][1]
+
+[1]:https://raw.githubusercontent.com/DarwinSenior/FilesForBlog/master/files/hosts
